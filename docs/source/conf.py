@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Cryocaves'
+copyright = 'Double Shroom, 2024'
+author = 'Double Shroom'
 
 release = '0.1'
 version = '0.1.0'
