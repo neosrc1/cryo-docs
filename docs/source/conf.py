@@ -33,7 +33,7 @@ html_theme = 'sphinx_rtd_theme'
 html_theme_options = {
     'logo_only': False
 }
-html_logo = 'cc trim.png'
+html_logo = '../source/cctrim.png'
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
