@@ -1,7 +1,7 @@
 API
 ===
 
-.. :toctree:
+.. toctree::
 
    dummy1
    dummy2
