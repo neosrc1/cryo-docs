@@ -4,7 +4,7 @@ Design documentation
 .. toctree::
    :hidden:
    :caption: Design documentation
-   
+
    usage
    api
 
