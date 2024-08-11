@@ -8,4 +8,4 @@ The O.E.M.
     The O.E.M., being a starter tool, cannot break or be discarded unless you have a duplicate of it in your inventory.
 
 .. note:: 
-    In a pinch, the O.E.M. will deal more damage than your bare fists.
+    In a pinch, the O.E.M. will deal more damage to your :ref:`enemies <enemies>` than your bare fists will.
