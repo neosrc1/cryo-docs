@@ -2,9 +2,9 @@ Design documentation
 ===============================================================
 
 .. toctree::
-   :caption: Design documentation
    :hidden:
-
+   :caption: Design documentation
+   
    usage
    api
 
