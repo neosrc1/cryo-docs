@@ -20,3 +20,4 @@ Cryocaves internal design documentation
 
    chars
    enemies
+   items

@@ -1,3 +1,5 @@
+.. _tech_class:
+
 Technology class playable character
 ===================================
 

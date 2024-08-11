@@ -1,3 +1,5 @@
+.. _arcane_class:
+
 Arcane class playable character
 ===============================
 

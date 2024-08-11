@@ -1,3 +1,5 @@
+.. _combat_class:
+
 Combat class playable character
 ===============================
 
