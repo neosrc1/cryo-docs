@@ -1,5 +1,5 @@
 Design documentation
-===============================================================
+====================
 
 **Cryocaves** is the development name of a resource management and dungeoneering game based on a world inhabited by animate objects, akin to humans in intelligence and determination.
 It is being actively designed and developed by a user called neosrc under the guise of the Double Shroom alias.
@@ -14,5 +14,4 @@ The game is built upon the `Godot <https://godotengine.org>`_ game engine.
 .. toctree::
    :caption: Design documentation
 
-   usage
-   api
+   chars
