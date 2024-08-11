@@ -3,5 +3,5 @@ API
 
 .. toctree::
 
-   dummy1
+   chars
    dummy2

@@ -31,7 +31,8 @@ templates_path = ['_templates']
 
 html_theme = 'sphinx_rtd_theme'
 html_theme_options = {
-    'logo_only': False
+    'collapse_navigation': False,
+    'logo_only': True
 }
 html_logo = '../source/cctrim.png'
 
