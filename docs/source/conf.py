@@ -36,7 +36,6 @@ html_theme_options = {
     'includehidden' : True,
     'display_version': False,
     'style_external_links': True,
-    'style_nav_header_background': 'gray'
 }
 html_logo = '../source/cctrim.png'
 
