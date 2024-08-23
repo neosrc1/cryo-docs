@@ -1,7 +1,7 @@
 .. _homepage:
 
 Project Cryocaves internal design documentation
-=======================================
+===============================================
 
 .. line-block:: 
    **Project Cryocaves** is the development name of a resource management and dungeoneering game based on a world inhabited by animate objects, akin to humans in intelligence and determination.
