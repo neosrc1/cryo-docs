@@ -19,5 +19,5 @@ Cryocaves internal design documentation
    :caption: Design documentation
 
    chars
-   enemies
+   npcs
    items
