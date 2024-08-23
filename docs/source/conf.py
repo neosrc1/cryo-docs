@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'Cryocaves'
+project = 'Project Cryocaves'
 copyright = 'Double Shroom, 2024'
 author = 'Double Shroom'
 
